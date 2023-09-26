@@ -4,6 +4,7 @@
 
 
 Languages and Tools
+
 HTML CSS SASS Photoshop Corel Figma
 
 JavaScript React Redux TypeScript
